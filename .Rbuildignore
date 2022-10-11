@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^R/sims\.R$
+^R/sims$
+^sims$
